@@ -6,3 +6,5 @@ CESSSSS
 BASTADDI
 ZOCCOLA
 boooh
+stronzone
+stronzone 2
